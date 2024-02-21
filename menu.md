@@ -15,4 +15,4 @@ Below is a sample of the menu.
 
 - price: $3.50
 
-![lettuce](assets/images/Screen Shot 2024-02-21 at 11.25.44 AM){:width="200"}
+![lettuce](assets/images/Screen Shot 2024-02-21 at 11.25.44 AM.png){:width="200"}
