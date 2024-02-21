@@ -5,17 +5,14 @@ permalink: /menu
 nav: true
 ---
 
-## menu
+## Menu
 
-this is the menu
+Below is a sample of the menu. 
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+### Menu Item 1
 
-### menu item 1
+#### Chocolate Croissant
 
-#### lettuce
+- price: $3.50
 
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![lettuce](assets/images/Screen Shot 2024-02-21 at 11.25.44 AM){:width="200"}
