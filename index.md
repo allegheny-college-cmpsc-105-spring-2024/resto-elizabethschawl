@@ -12,7 +12,7 @@ title: "about"
 
 >We want customers to feel welcome in our space, so we prioritize friendly staff, inclusive menu options,
 >local goods, and a relaxing atmosphere. We also specialize in ethically sourced coffee from regions such
-> Costa Rica and Brazil.
+>as Costa Rica and Brazil.
 
 
 
