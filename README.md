@@ -18,7 +18,7 @@ After completing this lab, you should be able to:
 - navigate the directory structure in the project
 - contribute to web docs online
 
-## TODOs
+## s
 
 Summary of . Details are below
 
@@ -108,4 +108,4 @@ you improve your business and why you came to your conclusions.
 ## Before the final submission
 
 - Please check the gatorgrade report in GitHub Actions and resolve
-  any issues, including completing and deleting all TODO markers.
+  any issues, including completing and deleting all markers.
