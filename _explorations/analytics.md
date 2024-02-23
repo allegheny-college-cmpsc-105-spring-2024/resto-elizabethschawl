@@ -5,7 +5,7 @@ permalink: explorations/analytics
 nav: true
 ---
 
-Looking at this data, the number of site visitors is broken down into regions. This is 
+Looking at the data below, the number of site visitors is broken down into regions. This is 
 incredibly helpful as a store/shop owner would be able to know which country to appeal to, 
 where they can expand, and what nationalities they should not focus on. 
 It would be astronomically helpful with an online vendor, as they would be able to 
