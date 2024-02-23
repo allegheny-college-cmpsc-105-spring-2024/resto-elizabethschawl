@@ -10,4 +10,4 @@ different sources of data contributing to the analytics automatic dashboards.
 If you were a real restaurant owner, explain how this information could help
 you improve your business and why you came to your conclusions.
 
-TODO: include at least one analytics plot to back up your claims.
+TODO: include at least one analytics plot to back up your claims..
