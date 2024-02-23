@@ -1,17 +1,30 @@
 ---
 layout: post
-# TODO: update the title inside the quotes to suit your restaurant review needs
-title: "rev 1"
+ update the title inside the quotes to suit your restaurant review needs
+title: "Fusion Flavors"
 permalink: explorations/review1
 nav: true
 ---
 
-Rabbits like lettuce.
+Very satisfied with my experience here, would come again and have recommended to my friends! 
+I really enjoyed the tacos and their new, combined flavors. Want to bring my family back here
+and think my family would really enjoy it. A must stop destination for people looking to 
+sample the city. This area, with the place a couple blocks down, are really must stop
+destinations. Need a drunken noodles dish from this place! 
+Want to see more from this place, and what their menu might evolve into. 
+Want to see a drink menu and more locations! Very satisfied with my experience.
+Have been recommending to my friends at work and want this to cater my office/work.
+Very satisfied with my experience here, would come again and have recommended to my friends! 
+I really enjoyed the tacos and their new, combined flavors. Want to bring my family back here
+and think my family would really enjoy it. A must stop destination for people looking to 
+sample the city. This area, with the place a couple blocks down, are really must stop
+destinations. Need a drunken noodles dish from this place! 
+Want to see more from this place, and what their menu might evolve into. 
+Want to see a drink menu and more locations! Very satisfied with my experience.
+Have been recommending to my friends at work and want this to cater my office/work.
 
-- TODO: pretending that you ate at the restaurant, write a
-  paragraph review as a food critic and restaurant owner.
-  - gatorgrade will check for at least 150 words.
-  - NB that something you write will be quoted later by the author
-  of the website.
-- TODO: make a link in markdown to the site that you reviewed
-- TODO: push your changes and make sure that the link works online!
+
+## Site Reviewed
+
+- [Fushion](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Faarisc/)
+
